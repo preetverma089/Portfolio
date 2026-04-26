@@ -113,7 +113,8 @@
   font-weight: 500;
   box-shadow: 0 10px 30px rgba(0,0,0,0.5);
   transform: translateX(-50%);
-  white-space: nowrap;
+  max-width: 90vw;
+  text-align: center;
 }
 
 .toast-success {
