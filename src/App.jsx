@@ -25,7 +25,7 @@ function App() {
       </main>
       
       <footer style={{ textAlign: 'center', padding: '2rem', color: 'var(--color-text-secondary)', fontFamily: 'var(--font-body)' }}>
-        <p>© {new Date().getFullYear()} John Doe. Built with React & Framer Motion.</p>
+        <p>© {new Date().getFullYear()} Preet Verma. Built with React & Framer Motion.</p>
       </footer>
     </>
   );
